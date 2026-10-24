@@ -86,8 +86,6 @@ I also enjoy exploring new tools and applying what I learn in practical projects
 
 ## 🤝 Connect With Me
 
-## 🤝 Connect With Me
-
 - **GitHub:** [tariq2424](https://github.com/tariq2424)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tariq-khalak/)
 - **Portfolio:** [Visit my portfolio](https://khalak-tariq-portfolio.onrender.com/)
